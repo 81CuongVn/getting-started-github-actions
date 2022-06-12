@@ -34,11 +34,11 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          echo What is in this directory ?
+          echo What is in this directory?
           ls -a
-          echo Is Java Installed ?
+          echo Is Java installed?
           Java -version
-          echo Is Git Installed ?
+          echo Is Git installed?
           git --version
           echo What about build tools?
           mvn --version
